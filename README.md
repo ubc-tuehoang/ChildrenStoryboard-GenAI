@@ -9,7 +9,8 @@ Integration of Gemini and OpenAI: Storyboard for Children: GenAI.
 Objective:
 To develop a captivating and educational storyboard that seamlessly integrates Gemini-AI's interactive storytelling platform with OpenAI's cutting-edge language capabilities, aimed at providing children-storyboard with an engaging and enriching narrative experience that fosters creativity, learning, and critical thinking skills.
 
-![Alt text](image.png)
+![image](https://github.com/ubc-tuehoang/ChildrenStoryboard-GenAI/assets/86985864/631c7a0c-3577-4c2c-b38a-2c3fef11ac57)
+
 
 Story by Gemini AI:
 
