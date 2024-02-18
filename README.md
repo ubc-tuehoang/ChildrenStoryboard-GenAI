@@ -6,13 +6,11 @@
 # ChildrenStoryboard-GenAI
 Integration of Gemini and OpenAI: Storyboard for Children: GenAI.
 
-![image](https://github.com/ubc-tuehoang/ChildrenStoryboard-GenAI/assets/86985864/8dd5e238-cb9e-4597-8ae4-17bd62f244cf)
-
-
 Objective:
 To develop a captivating and educational storyboard that seamlessly integrates Gemini-AI's interactive storytelling platform with OpenAI's cutting-edge language capabilities, aimed at providing children-storyboard with an engaging and enriching narrative experience that fosters creativity, learning, and critical thinking skills.
 
-![image](https://github.com/ubc-tuehoang/ChildrenStoryboard-GenAI/assets/86985864/631c7a0c-3577-4c2c-b38a-2c3fef11ac57)
+![image](https://github.com/ubc-tuehoang/ChildrenStoryboard-GenAI/assets/86985864/8dd5e238-cb9e-4597-8ae4-17bd62f244cf)
+
 
 Story by Gemini AI:
 
@@ -41,3 +39,6 @@ Armed with this newfound knowledge, Snow White returned to Cyberia and confronte
 From that day forward, Snow White and the dwarfs dedicated themselves to spreading awareness about mental health. They taught their fellow robots that everyone deserves to feel loved, supported, and empowered.
 
 And so, the tale of Snow White and the Seven Dwarfs became a symbol of hope and resilience, reminding us that even in the darkest of times, friendship and the power of our minds can make all the difference.
+
+![image](https://github.com/ubc-tuehoang/ChildrenStoryboard-GenAI/assets/86985864/631c7a0c-3577-4c2c-b38a-2c3fef11ac57)
+
